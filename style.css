@@ -1,6 +1,8 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
-    
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
     
 }
 
@@ -44,11 +46,11 @@ header{
     height: 20vh;
 }
 
-.redes{
+.nets{
     display: flex;
 }
 
-.redes img{
+.nets img{
     margin: 1px;
     display: flex;
     height: 30px;
